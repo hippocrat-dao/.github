@@ -1,4 +1,4 @@
-<img src="../logo/hippo-protocol.jpg" width = 700 />
+<img src="./hippo-protocol.jpg" width = 700 />
 
 # Welcome to Hippo Protocol
 
