@@ -1,0 +1,2 @@
+# .github
+Hippo Protocol Introduction
